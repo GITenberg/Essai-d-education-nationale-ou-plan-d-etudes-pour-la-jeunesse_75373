@@ -1,0 +1,40 @@
+_repo: Essai-d-education-nationale-ou-plan-d-etudes-pour-la-jeunesse_75373
+_version: 0.0.1
+creator:
+  author:
+    agent_name: La Chalotais, Louis-René de Caradeuc de
+    aliases:
+    - Caradeuc de La Chalotais, Louis-René de
+    - Chalotais, Louis-René de Caradeuc de La
+    - De Caradeuc de La Chalotais, Louis-René
+    - De La Chalotais, Louis-René de Caradeuc
+    - La Chalotais, Louis-Rene de Caradeuc de
+    - Chalotais, Louis-René de Caradeuc de la
+    birthdate: 1701
+    deathdate: 1785
+    gutenberg_agent_id: '57972'
+    url: http://www.gutenberg.org/2009/agents/57972
+description: ''
+gutenberg_issued: '2025-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75373'
+language: fr
+pgterms:marc904: http://catalogue.bnf.fr/ark:/12148/cb347025318
+pgterms:marc905: 20250120123402decaradeuc
+pgterms:marc906: '1763'
+pgterms:marc907: FR
+production_note: J.-M. Mariot from files generously made available by the Bibliothèque
+  nationale de France (BnF/Gallica).
+publication_note: '  $aUnknown :$bUnknown, $c1763.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Education -- Early works to 1800'
+- !lcsh 'Education and state -- France'
+- !lcsh 'Education -- France -- History'
+- !lcc 'LA'
+- GITenberg
+title: Essai d'éducation nationale, ou, plan d'études pour la jeunesse
+url: http://www.gutenberg.org/ebooks/75373
