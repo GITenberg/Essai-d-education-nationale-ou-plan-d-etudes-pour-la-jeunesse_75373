@@ -1,5 +1,8 @@
 _repo: Essai-d-education-nationale-ou-plan-d-etudes-pour-la-jeunesse_75373
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75373-h/images/cover.jpg
 creator:
   author:
     agent_name: La Chalotais, Louis-René de Caradeuc de
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '57972'
     url: http://www.gutenberg.org/2009/agents/57972
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75373#Essai-d-education-nationale-ou-plan-d-etudes-pour-la-jeunesse
 gutenberg_issued: '2025-02-14'
 gutenberg_type: Text
 identifiers:
